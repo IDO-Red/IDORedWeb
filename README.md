@@ -7,7 +7,7 @@ heroText: IDO Red
 tagline: Initial DAO Offering.
 actions:
   - text: 🚀Launch
-    link: https://app.hns.ink
+    link: https://app.ido.red
 
   - text: 💡Guide
     link: /guide/

@@ -3,11 +3,11 @@ import * as navbar from "./navbar";
 import * as sidebar from "./sidebar";
 
 export default defineThemeConfig({
-  hostname: "https://hns.ink",
+  hostname: "https://ido.red",
 
   author: {
     name: "IDO Red",
-    url: "https://hns.ink",
+    url: "https://ido.red",
   },
 
   iconPrefix: "fa-solid fa-",

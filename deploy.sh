@@ -13,7 +13,7 @@ npx npm run build
 cd .vuepress/dist
 
 # 如果是发布到自定义域名
-echo 'hns.ink' > CNAME
+echo 'ido.red' > CNAME
 
 git init
 git add -A

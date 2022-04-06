@@ -7,7 +7,7 @@ heroText: IDO Red
 tagline: 首次 DAO 供应。
 actions:
   - text: 🚀使用
-    link: https://app.hns.ink
+    link: https://app.ido.red
 
   - text: 💡指南
     link: /zh/guide/
